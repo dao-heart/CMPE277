@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="hint">E-Mail ID</string>
+    <string name="user_text">Hello, Library User</string>
+    <string name="librarian_text">Hello, Librarian</string>
+    <string name="password">Password</string>
+    <string name="login">Login Admin</string>
+    <string name="login1">Login User</string>
+    <string name= "login_final">Login</string>
+</resources>
